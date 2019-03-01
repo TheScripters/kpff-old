@@ -1,0 +1,63 @@
+<!doctype html public "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Kim Possible Fanfiction Megasite</title>
+<meta name="resource-type" content="document">
+<meta name="revisit-after" content="5">
+<meta name="classification" content="Entertainment">
+<meta name="description" content="Website for fanfiction for the Disney Channel series Kim Possible. Free submission.">
+<meta name="keywords" content="Kim Possible, KP, Ron Stoppable, Rufus, Disney, Drakken, Shego">
+<meta name="robots" content="ALL">
+<meta name="distribution" content="Global">
+<meta name="rating" content="General">
+<meta name="copyright" content="© 2005-2006 KPFanfiction.com; coded by TheScripters.com">
+<meta name="author" content="TheScripters">
+<meta http-equiv="reply-to" content="webmaster@kpfanfiction.com">
+<meta http-equiv="Content-Language" content="en-us">
+<link rel="meta" href="http://www.kpfanfiction.com/labels.rdf" type="application/rdf+xml" title="ICRA labels" />
+<link title="RSS" rel="alternate" type="application/rss+xml" href="http://www.kpfanfiction.com/rss.xml">
+<style>
+H1 {font-weight: bold; font-size: 36pt; font-variant: small-caps; margin-top: 6pt; margin-bottom: 12pt; text-decoration: underline; text-align: center}
+H2 {font-weight: normal; font-size: 25pt; font-variant: small-caps; margin-top: 6pt; margin-bottom: 12pt; text-decoration: underline; text-align: center; font-style: italic}
+H4 {margin-bottom: 1px}
+H6 {font-weight: normal; font-size: 10pt; text-align: center; margin-top: 2px}
+TABLE {margin-bottom: 1px; margin-top: 1px}
+IMG {margin-bottom: 1px}
+A:active {color: #FFFFFF; background: #27CCFF}
+A:link {color: #0000FF; text-decoration: none}
+A:visited {color: #0000FF; text-decoration: none}
+A:hover {text-decoration: underline; color: #FF0000}
+</style>
+</head>
+
+<body>
+<h1>Kim Possible Fanfiction</h1><br><br>
+<table width="100%">
+  <tr>
+    <td valign="top" width="35"><h3>Menu:</h3>
+      <ul>
+      <li><a href="/index.php" onmouseover="window.status='';return true">Main</a></li>
+      <li><a href="/fics.php?fic=atoz" onmouseover="window.status='';return true"><nobr>Fics A-Z</nobr></a></li>
+      <li><a href="/index.php?mode=submit" onmouseover="window.status='';return true"><nobr>Submit Story</nobr></a></li>
+      </ul><br><br><br><br>
+      <!--Creative Commons License--><a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/2.5/"><img style="vertical-align: bottom" alt="Creative Commons License" border="0" src="http://creativecommons.org/images/public/somerights20.png"/></a><br/>
+		<!--/Creative Commons License--><!-- <rdf:RDF xmlns="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+		<Work rdf:about="">
+			<license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/2.5/" />
+	<dc:description>Website code and design copyright Adam Humpherys (www.thescripters.com).
+This license only allows derivative works from the website design. Contact the author for permission for otherwise.</dc:description>
+	<dc:type rdf:resource="http://purl.org/dc/dcmitype/Text" />
+		</Work>
+		<License rdf:about="http://creativecommons.org/licenses/by-nc-nd/2.5/"><permits rdf:resource="http://web.resource.org/cc/Reproduction"/><permits rdf:resource="http://web.resource.org/cc/Distribution"/><requires rdf:resource="http://web.resource.org/cc/Notice"/><requires rdf:resource="http://web.resource.org/cc/Attribution"/><prohibits rdf:resource="http://web.resource.org/cc/CommercialUse"/></License></rdf:RDF> -->
+      <br><br><a href="http://www.thescripters.com" target="_blank" title="Coded by TheScripters.com"><img src="/ts-coded1-sm.png" border="0" alt="Coded By TheScripters.com"></a>
+    </td>
+    <td align="center">
+<font size="5" color="red">Forbidden</font><br><br>The requested URL "<!--#echo var="REQUEST_URI" -->" does not allow access of this type. Please go back and try again.
+    </td>
+  </tr>
+</table>
+<br>
+<hr><table width="100%"><tr><td valign="top" align="right" width="100%"><a href="/rss.xml"><img src="/rss.gif" border="0"><img src="/xml.gif" border="0"></a></td></tr></table>
+<h6>Website &copy; 2005 Kim Possible Fanfiction; Kim Possible characters &copy; 2002-2005 <a href="http://www.disney.com">Disney</a><br>Copyright on the actual material is held by the author. Contact them for permission to distribute.<br>Coded by <a href="http://www.thescripters.com" target="_blank">TheScripters.com</a>; All rights reserved.</h6>
+</body>
+</html>

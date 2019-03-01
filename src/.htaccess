@@ -1,0 +1,14 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http://kpfanfiction.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://kpfanfiction.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.kpfanfiction.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://www.kpfanfiction.com$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://72.29.84.167/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://72.29.84.167$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://titanium.host-care.com/.*$      [NC]
+RewriteCond %{HTTP_REFERER} !^http://titanium.host-care.com$      [NC]
+RewriteRule .*\.(jpg|jpeg|gif|png|bmp)$ - [F,NC]
+
+options -Indexes

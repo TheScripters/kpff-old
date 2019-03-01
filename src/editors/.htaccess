@@ -1,0 +1,9 @@
+
+AuthType Basic
+
+AuthName "KPFF Editors' Area"
+
+AuthUserFile "/home/kpfan/.htpasswds/editors/passwd"
+
+
+require valid-user

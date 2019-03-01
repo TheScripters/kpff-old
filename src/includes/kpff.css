@@ -1,0 +1,13 @@
+H1 {font-weight: bold; font-size: 36pt; font-variant: small-caps; margin-top: 6pt; margin-bottom: 12pt; text-decoration: underline; text-align: center}
+H2 {font-weight: normal; font-size: 25pt; font-variant: small-caps; margin-top: 6pt; margin-bottom: 5pt; text-decoration: underline; text-align: center; font-style: italic}
+H3 {text-align: center; font-weight: bold; font-style: italic; text-decoration: none; font-size: 18pt}
+H4 {margin-bottom: 1px; margin-top: 5px}
+H5 {font-weight: normal; font-size: 10pt; font-family: Arial; font-style: italic; margin-top: 2px}
+H6 {font-weight: normal; font-size: 10pt; text-align: center; margin-top: 2px}
+.LinkName {font-size: 10pt; font-family: Arial}
+TABLE {margin-bottom: 1px; margin-top: 1px}
+IMG {margin-bottom: 1px}
+A:active {color: #FFFFFF; background: #27CCFF}
+A:link {color: #0000FF; text-decoration: none}
+A:visited {color: #0000FF; text-decoration: none}
+A:hover {text-decoration: underline; color: #FF0000}
